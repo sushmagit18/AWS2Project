@@ -1,0 +1,1 @@
+This is a AWS Project sample file to test S3 bucket.
